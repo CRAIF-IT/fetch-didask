@@ -32,6 +32,14 @@
     "is_new": true
   },
   {
+    "slug": "signes-de-reperage-1",
+    "name": "Signes de repérage du TSA",
+    "duration": 28,
+    "image": "https://didask-v3-uploads.s3.amazonaws.com/production/unsplash/-Ux5mdMJNEA",
+    "url": "https://craif.didask.com/fr/courses/signes-de-reperage-1",
+    "is_new": true
+  },
+  {
     "slug": "accompagnement-parental",
     "name": "Accompagnement parental",
     "duration": 60,
@@ -45,14 +53,6 @@
     "duration": 60,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/f687f436f7cb4f24b1a33b52976e8bca.jpg",
     "url": "https://craif.didask.com/fr/courses/accompagner-un-eleve-avec-un-tsa-en-maternelle",
-    "is_new": false
-  },
-  {
-    "slug": "adaptation-et-specificite-du-bilan-psychomoteur-dans-le-tsa",
-    "name": "Adaptation et spécificité du bilan psychomoteur dans le TSA",
-    "duration": 80,
-    "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/2203464508",
-    "url": "https://craif.didask.com/fr/courses/adaptation-et-specificite-du-bilan-psychomoteur-dans-le-tsa",
     "is_new": false
   },
   {
@@ -77,22 +77,6 @@
     "duration": 60,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/5470200701364418a57af09e40707e55.jpg",
     "url": "https://craif.didask.com/fr/courses/lorientation",
-    "is_new": false
-  },
-  {
-    "slug": "signes-de-reperage-1",
-    "name": "Signes de repérage du TSA",
-    "duration": 28,
-    "image": "https://didask-v3-uploads.s3.amazonaws.com/production/unsplash/-Ux5mdMJNEA",
-    "url": "https://craif.didask.com/fr/courses/signes-de-reperage-1",
-    "is_new": false
-  },
-  {
-    "slug": "education-a-la-vie-affective-relationnelle-et-sexuelle",
-    "name": "Éducation à la vie affective, relationnelle et sexuelle",
-    "duration": 57,
-    "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/951480794",
-    "url": "https://craif.didask.com/fr/courses/education-a-la-vie-affective-relationnelle-et-sexuelle",
     "is_new": false
   },
   {
