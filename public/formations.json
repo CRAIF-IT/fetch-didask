@@ -32,14 +32,6 @@
     "is_new": true
   },
   {
-    "slug": "evaluation-orthophonique",
-    "name": "Évaluation orthophonique",
-    "duration": 70,
-    "image": "https://didask-v3-uploads.s3.amazonaws.com/14d0a6a61a3b4b8f9d1edd5deaefc780.png",
-    "url": "https://craif.didask.com/fr/courses/evaluation-orthophonique",
-    "is_new": true
-  },
-  {
     "slug": "accompagnement-parental",
     "name": "Accompagnement parental",
     "duration": 60,
@@ -101,6 +93,14 @@
     "duration": 57,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/951480794",
     "url": "https://craif.didask.com/fr/courses/education-a-la-vie-affective-relationnelle-et-sexuelle",
+    "is_new": false
+  },
+  {
+    "slug": "evaluation-orthophonique",
+    "name": "Évaluation orthophonique",
+    "duration": 70,
+    "image": "https://didask-v3-uploads.s3.amazonaws.com/14d0a6a61a3b4b8f9d1edd5deaefc780.png",
+    "url": "https://craif.didask.com/fr/courses/evaluation-orthophonique",
     "is_new": false
   },
   {
