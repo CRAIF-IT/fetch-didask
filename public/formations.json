@@ -4,97 +4,111 @@
     "name": "Accompagnement parental",
     "duration": 60,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/e02435da5feb44a5b63676fa49e26265.jpg",
-    "url": "https://craif.didask.com/fr/courses/accompagnement-parental"
+    "url": "https://craif.didask.com/fr/courses/accompagnement-parental",
+    "is_new": false
   },
   {
     "slug": "accompagner-un-eleve-avec-un-tsa-en-maternelle",
     "name": "Accompagner un élève avec un TSA en maternelle",
     "duration": 60,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/f687f436f7cb4f24b1a33b52976e8bca.jpg",
-    "url": "https://craif.didask.com/fr/courses/accompagner-un-eleve-avec-un-tsa-en-maternelle"
+    "url": "https://craif.didask.com/fr/courses/accompagner-un-eleve-avec-un-tsa-en-maternelle",
+    "is_new": false
   },
   {
     "slug": "adaptation-et-specificite-du-bilan-psychomoteur-dans-le-tsa",
     "name": "Adaptation et spécificité du bilan psychomoteur dans le TSA",
     "duration": 80,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/2203464508",
-    "url": "https://craif.didask.com/fr/courses/adaptation-et-specificite-du-bilan-psychomoteur-dans-le-tsa"
+    "url": "https://craif.didask.com/fr/courses/adaptation-et-specificite-du-bilan-psychomoteur-dans-le-tsa",
+    "is_new": false
   },
   {
     "slug": "bilan-psychomoteur-et-tsa",
     "name": "Bilan psychomoteur et TSA",
     "duration": 60,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/2241384578",
-    "url": "https://craif.didask.com/fr/courses/bilan-psychomoteur-et-tsa"
+    "url": "https://craif.didask.com/fr/courses/bilan-psychomoteur-et-tsa",
+    "is_new": false
   },
   {
     "slug": "comprendre-le-trouble-du-spectre-de-lautisme-tsa",
     "name": "Comprendre le trouble du spectre de l'autisme (TSA)",
     "duration": 52,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/2231182658",
-    "url": "https://craif.didask.com/fr/courses/comprendre-le-trouble-du-spectre-de-lautisme-tsa"
+    "url": "https://craif.didask.com/fr/courses/comprendre-le-trouble-du-spectre-de-lautisme-tsa",
+    "is_new": false
   },
   {
     "slug": "connaissances-actuelles-de-la-physiopathologie",
     "name": "Connaissances actuelles de la physiopathologie",
     "duration": 70,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/bd4c62a7f54146b9b975ba88f64e97ea.jpg",
-    "url": "https://craif.didask.com/fr/courses/connaissances-actuelles-de-la-physiopathologie"
+    "url": "https://craif.didask.com/fr/courses/connaissances-actuelles-de-la-physiopathologie",
+    "is_new": false
   },
   {
     "slug": "demarche-diagnostique-du-tsa-chez-lenfant-et-ladolescent",
     "name": "Démarche diagnostique du TSA chez l'enfant et l'adolescent",
     "duration": 51,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/unsplash/97Rpu-UmCaY",
-    "url": "https://craif.didask.com/fr/courses/demarche-diagnostique-du-tsa-chez-lenfant-et-ladolescent"
+    "url": "https://craif.didask.com/fr/courses/demarche-diagnostique-du-tsa-chez-lenfant-et-ladolescent",
+    "is_new": false
   },
   {
     "slug": "comorbidites-psychiatriques-et-medicales",
     "name": "Démarches administratives",
     "duration": 90,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/04db237d46c14017a60c3bfd7fbd88ef.jpg",
-    "url": "https://craif.didask.com/fr/courses/comorbidites-psychiatriques-et-medicales"
+    "url": "https://craif.didask.com/fr/courses/comorbidites-psychiatriques-et-medicales",
+    "is_new": false
   },
   {
     "slug": "lorientation",
     "name": "L'orientation",
     "duration": 60,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/5470200701364418a57af09e40707e55.jpg",
-    "url": "https://craif.didask.com/fr/courses/lorientation"
+    "url": "https://craif.didask.com/fr/courses/lorientation",
+    "is_new": false
   },
   {
     "slug": "acteurs-du-diagnostic-du-tsa-chez-lenfant",
     "name": "Les acteurs du diagnostic du TSA chez l'enfant ",
     "duration": 62,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/unsplash/KdeqA3aTnBY",
-    "url": "https://craif.didask.com/fr/courses/acteurs-du-diagnostic-du-tsa-chez-lenfant"
+    "url": "https://craif.didask.com/fr/courses/acteurs-du-diagnostic-du-tsa-chez-lenfant",
+    "is_new": false
   },
   {
     "slug": "signes-de-reperage-1",
     "name": "Signes de repérage du TSA",
     "duration": 28,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/unsplash/-Ux5mdMJNEA",
-    "url": "https://craif.didask.com/fr/courses/signes-de-reperage-1"
+    "url": "https://craif.didask.com/fr/courses/signes-de-reperage-1",
+    "is_new": false
   },
   {
     "slug": "education-a-la-vie-affective-relationnelle-et-sexuelle",
     "name": "Éducation à la vie affective, relationnelle et sexuelle",
     "duration": 57,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/951480794",
-    "url": "https://craif.didask.com/fr/courses/education-a-la-vie-affective-relationnelle-et-sexuelle"
+    "url": "https://craif.didask.com/fr/courses/education-a-la-vie-affective-relationnelle-et-sexuelle",
+    "is_new": false
   },
   {
     "slug": "evaluation-orthophonique",
     "name": "Évaluation orthophonique",
     "duration": 70,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/14d0a6a61a3b4b8f9d1edd5deaefc780.png",
-    "url": "https://craif.didask.com/fr/courses/evaluation-orthophonique"
+    "url": "https://craif.didask.com/fr/courses/evaluation-orthophonique",
+    "is_new": false
   },
   {
     "slug": "evaluation-psychologique",
     "name": "Évaluation psychologique",
     "duration": 50,
     "image": "https://didask-v3-uploads.s3.amazonaws.com/3723d53dc88c49758af448f56d8050ee.jpg",
-    "url": "https://craif.didask.com/fr/courses/evaluation-psychologique"
+    "url": "https://craif.didask.com/fr/courses/evaluation-psychologique",
+    "is_new": false
   }
 ]
