@@ -20,7 +20,7 @@ for c in courses:
     is_new = False
     if project_id:
         try:
-            project = fetch(f'https://craif.didask.com/api/studio/projects/{project_id}')
+            project = fetch(f'https://craif.didask.com/api/studio/projects/{project_id}/summary')
             tags = project.get('data', {}).get('tags', [])
             is_new = any(t['_id'] == NEW_TAG_ID for t in tags)
         except Exception as e:
