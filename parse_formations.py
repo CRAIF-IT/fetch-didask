@@ -8,7 +8,12 @@ cookie_jar.load(ignore_discard=True, ignore_expires=True)
 opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cookie_jar))
 
 def fetch(url):
-    with opener.open(url) as r:
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'Mozilla/5.0',
+        'Accept': '*/*',
+        'Referer': 'https://craif.didask.com/studio'
+    })
+    with opener.open(req) as r:
         return json.loads(r.read())
 
 raw = json.load(sys.stdin)
