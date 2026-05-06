@@ -21,30 +21,15 @@ jobs:
             -d "email=${DIDASK_EMAIL}&password=${DIDASK_PASSWORD}" \
             -L \
             "https://craif.didask.com/api/auth/signin"
-
+          mkdir -p public
           curl -s -b cookies.txt \
             "https://craif.didask.com/api/learning-library?progressStatuses=progress-not-started&progressStatuses=progress-in-progress&offset=0&limit=24&sortBy=priority" \
-            | python3 -c "
-import sys, json
-raw = json.load(sys.stdin)
-courses = raw['data']['data']
-out = []
-for c in courses:
-  out.append({
-    'slug': c['slug'],
-    'name': c['displayedName']['fr'],
-    'duration': c['duration'],
-    'image': c['banner']['asset']['sources'][0]['url'],
-    'url': 'https://craif.didask.com/fr/courses/' + c['slug']
-  })
-print(json.dumps(out, ensure_ascii=False, indent=2))
-" > public/formations.json
+            | python3 parse_formations.py > public/formations.json
 
       - name: Commit si changements
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          mkdir -p public
           git add public/formations.json
           git diff --staged --quiet || git commit -m "chore: sync formations Didask"
           git push
