@@ -1,5 +1,13 @@
 [
   {
+    "slug": "acteurs-du-diagnostic-du-tsa-chez-lenfant",
+    "name": "",
+    "duration": 62,
+    "image": "https://didask-v3-uploads.s3.amazonaws.com/production/getty/2187421594",
+    "url": "https://craif.didask.com/fr/courses/acteurs-du-diagnostic-du-tsa-chez-lenfant",
+    "is_new": true
+  },
+  {
     "slug": "bilan-psychomoteur-et-tsa",
     "name": "Bilan psychomoteur et TSA",
     "duration": 60,
@@ -19,16 +27,8 @@
     "slug": "demarche-diagnostique-du-tsa-chez-lenfant-et-ladolescent",
     "name": "Démarche diagnostique du TSA chez l'enfant et l'adolescent",
     "duration": 51,
-    "image": "https://didask-v3-uploads.s3.amazonaws.com/production/unsplash/97Rpu-UmCaY",
+    "image": "https://didask-v3-uploads.s3.amazonaws.com/eddae26bfb094d8e8b414fa4adb4fb7d.jpg",
     "url": "https://craif.didask.com/fr/courses/demarche-diagnostique-du-tsa-chez-lenfant-et-ladolescent",
-    "is_new": true
-  },
-  {
-    "slug": "acteurs-du-diagnostic-du-tsa-chez-lenfant",
-    "name": "Les acteurs du diagnostic du TSA chez l'enfant ",
-    "duration": 62,
-    "image": "https://didask-v3-uploads.s3.amazonaws.com/production/unsplash/KdeqA3aTnBY",
-    "url": "https://craif.didask.com/fr/courses/acteurs-du-diagnostic-du-tsa-chez-lenfant",
     "is_new": true
   },
   {
